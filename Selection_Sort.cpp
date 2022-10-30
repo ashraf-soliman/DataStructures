@@ -11,7 +11,7 @@ void selection_sort (int arr[], int n) {
 	
    int min_indx = 0;
    
-	 for (int i = 0; i < n; i++){
+   for (int i = 0; i < n; i++){
 		 
        min_indx = i;
        
